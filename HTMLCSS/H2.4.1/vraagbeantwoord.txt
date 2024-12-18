@@ -1,0 +1,8 @@
+bij Relatief doet hij niks omdat een / ontbreekt tussen" en i dus linkt hij niet met de folder met het plaatje
+
+<img src="images/cat.png" alt="Relatief">
+
+
+bij Absoluut doet hij het omdat door die / hij linkt aan de folder met het plaatje
+
+<img src="/images/cat.png" alt="Absoluut">
